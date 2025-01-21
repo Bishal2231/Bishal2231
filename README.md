@@ -2,7 +2,7 @@
 
 🔗 A passionate web developer specializing in the **MERN stack**.  
 💻 Constantly learning and building cool things with **React**, **Node.js**, **MongoDB**, and more!  
-🌟 Currently exploring **React Native** and mobile app development.  
+🌟 Currently exploring **WEB DEVELOPMENT** 
 
 📫 Feel free to connect or collaborate on open-source projects!
 
@@ -28,7 +28,6 @@
 - 🛠️ **Tools**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-  ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white)  
 
 ## 📊 GitHub Stats
 ![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
@@ -42,8 +41,8 @@
 
 
 ## 🤝 Let's Connect!
-- **LinkedIn**: [Bishal Kumar Adhikari](https://www.linkedin.com/in/your-profile)  
-- **GitHub**: [Bishal](https://github.com/your-username)  
+- **LinkedIn**: [Bishal Kumar Adhikari]( https://www.linkedin.com/in/animezone-amv-650169290/)  
+- **GitHub**: [Bishal](https://github.com/Bishal2231)  
 - **Email**: bishaladhikari@example.com
 
 
