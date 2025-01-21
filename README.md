@@ -30,10 +30,9 @@
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
 
 ## 📊 GitHub Stats
-![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishal2231&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal2231&layout=compact&theme=radical)
 
----
 
 ## 🔥 Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
