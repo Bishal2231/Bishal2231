@@ -35,7 +35,8 @@
 
 
 ## 🔥 Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bishal2231&theme=radical)
+
 
 
 
