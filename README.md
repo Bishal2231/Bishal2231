@@ -42,7 +42,7 @@
 ## 🤝 Let's Connect!
 - **LinkedIn**: [Bishal Kumar Adhikari]( https://www.linkedin.com/in/animezone-amv-650169290/)  
 - **GitHub**: [Bishal](https://github.com/Bishal2231)  
-- **Email**: bishaladhikari@example.com
+- **Email**: animezoneamv@gmail.com
 
 
 
