@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Bishal Kumar Adhikari!
 
-🔗 A passionate web developer specializing in the **MERN stack**.  
-💻 Constantly learning and building cool things with *MERN*  
-🌟 Currently exploring **WEB DEVELOPMENT** 
+🔗 A passionate developer
 
 📫 Feel free to connect or collaborate on open-source projects!
 
