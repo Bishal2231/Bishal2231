@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bishal Kumar Adhikari!
 ## A BIT,TU student
 
-🔗 A passionate developer
+🔗 A passionate web & app developer
 
 📫 Feel free to connect or collaborate on open-source projects!
 
