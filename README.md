@@ -3,7 +3,7 @@
 
 🔗 A passionate web & app developer
 
-📫 Feel free to connect or collaborate on open-source projects!
+📫 Feel free to connect or collaborate on open-source projects! and ready to contribute
 
 
 
