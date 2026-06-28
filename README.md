@@ -22,43 +22,38 @@ I work mainly with the **MERN stack** and have a strong interest in **Backend En
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication & Authorization
-- MongoDB
-- Mongoose
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### AI / Machine Learning
-- Python
-- PyTorch
-- Scikit-learn
-- Computer Vision
-- OCR Technologies
-- LangChain
-- LangGraph
-- CrewAI
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-AI-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CrewAI-Agent%20Framework-black?style=for-the-badge" />
+</p>
+
 
 ### DevOps & Tools
-- Git & GitHub
-- Linux
-- Shell Scripting
-- Docker
-- Kubernetes (Learning)
-- CI/CD Concepts
-- Postman
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,vscode" />
+</p>
 
-### Mobile Development
-- React Native
-
----
+### Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=reactnative" />
+</p>
+----
 
 ## 🔥 Currently Exploring
 
