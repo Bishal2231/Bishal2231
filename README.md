@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Bishal Kumar Adhikari
 
-### 🎓 BIT (TU) Student | Full-Stack Developer | AI Enthusiast
+### 🎓 BIT (TU) Student | Full-Stack Developer | AI Engineer in Progress
 
-I'm a passionate developer focused on building scalable web applications, backend systems, and intelligent solutions.
+I'm a passionate developer focused on building scalable web applications, backend systems, and AI-powered solutions.
 
-I specialize in the **MERN stack** and enjoy solving real-world problems through technology. Currently exploring **AI/ML, OCR systems, automation, and intelligent applications**.
+I work mainly with the **MERN stack** and have a strong interest in **Backend Engineering, AI/ML, Automation, and DevOps**. I enjoy transforming real-world problems into practical software solutions.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer working with **JavaScript ecosystem**
-- ⚙️ Experienced in building **REST APIs, backend systems, authentication & database-driven applications**
-- 🤖 Exploring **AI/ML, Computer Vision, OCR & automation workflows**
-- 📱 Learning and building mobile applications with **React Native**
-- 🌱 Always improving my engineering skills and contributing to open-source projects
+- 💻 Full-stack developer specializing in **JavaScript ecosystem & backend development**
+- ⚙️ Building APIs, authentication systems, database-driven applications, and automation workflows
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, OCR, and AI agents**
+- 🧠 Learning **Deep Learning and AI Engineering workflows**
+- 🐳 Exploring **DevOps, Docker, Kubernetes, and deployment practices**
+- 🌱 Continuously improving system design and software engineering skills
 
 ---
 
@@ -32,25 +33,39 @@ I specialize in the **MERN stack** and enjoy solving real-world problems through
 - Express.js
 - REST APIs
 - Authentication & Authorization
-- File Upload Systems
-
-### Database
 - MongoDB
 - Mongoose
 
-### Mobile
+### AI / Machine Learning
+- Python
+- PyTorch
+- Scikit-learn
+- Computer Vision
+- OCR Technologies
+- LangChain
+- LangGraph
+- CrewAI
+
+### DevOps & Tools
+- Git & GitHub
+- Linux
+- Shell Scripting
+- Docker
+- Kubernetes (Learning)
+- CI/CD Concepts
+- Postman
+
+### Mobile Development
 - React Native
 
-### AI / Learning
-- Python
-- OCR Technologies
-- Machine Learning fundamentals
+---
 
-### Tools
-- Git & GitHub
-- Postman
-- Linux
-- VS Code
+## 🔥 Currently Exploring
+
+🤖 AI-powered applications & intelligent automation  
+🧠 Deep Learning and Machine Learning systems  
+🔗 LLM applications, AI agents, and workflows  
+🐳 DevOps practices and scalable deployments  
 
 ---
 
@@ -62,21 +77,12 @@ I specialize in the **MERN stack** and enjoy solving real-world problems through
 
 ---
 
-## 🔥 Current Focus
-
-🚀 Building practical software solutions  
-🤖 Exploring AI-powered applications  
-📚 Improving system design and backend architecture  
-🌍 Open to collaboration on interesting projects
-
----
-
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Bishal Kumar Adhikari](https://www.linkedin.com/in/animezone-amv-650169290/)
+- 💼 LinkedIn: [Bishal Kumar Adhikari](https://www.linkedin.com/in/bishal-adhikari-650169290/)
 - 🐙 GitHub: [Bishal2231](https://github.com/Bishal2231)
 - 📧 Email: bishaladhikarizzz90@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Building, learning, and experimenting with technology.
